@@ -1,0 +1,7 @@
+{
+  "name": "thlApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
